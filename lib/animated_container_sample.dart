@@ -27,7 +27,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Flutter Animation'),
+        title: Text('Animated Container'),
       ),
       body: Center(
         child: Column(
